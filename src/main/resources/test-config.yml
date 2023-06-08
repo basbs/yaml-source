@@ -1,0 +1,26 @@
+# Sample yaml file
+---
+root:
+  primitivePojo:
+    wholeNumber: 1234567890
+    condition: true
+    fractions: 0.23456789
+  refPojo:
+    string: "Hello Yaml!"
+    number: 01
+  colPojo:
+    list:
+      - 1
+      - 1
+      - 2
+      - 3
+      - 4
+    set:
+      - 1
+      - 1
+      - 2
+      - 3
+      - 4
+    map:
+      key1: value1
+      key2: value2

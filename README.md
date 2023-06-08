@@ -1,0 +1,1 @@
+# Testing the yaml configuration access using spring boot
